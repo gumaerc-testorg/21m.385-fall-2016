@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-385-interactive-music-systems-fall-2016/167bdd43da4e4c10059d8c92613b75b2_class3.zip
+file: /media/courses/21m-385-interactive-music-systems-fall-2016/167bdd43da4e4c10059d8c92613b75b2_class3.zip
 file_type: application/zip
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and Files
+parent_type: CourseSection
 resourcetype: Other
 title: class3.zip
 uid: 167bdd43-da4e-4c10-059d-8c92613b75b2
