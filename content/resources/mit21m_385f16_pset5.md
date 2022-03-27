@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: acac8168-cb32-96cc-171e-8d980224fe9e
 resourcetype: Document
 title: 'Assignment 5: Magic Harp'
 uid: 215c820a-fa61-82b0-8b79-2b069b1b1d2e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 05eaccc2-57be-3899-31db-fc4e04e23b67
 resourcetype: Other
 title: install.zip
 uid: 6c4fa3ab-e73f-ef02-67d6-fc8fd51acf81

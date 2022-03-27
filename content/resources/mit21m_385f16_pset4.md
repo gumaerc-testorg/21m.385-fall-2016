@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: acac8168-cb32-96cc-171e-8d980224fe9e
 resourcetype: Document
 title: 'Assignment 4: Arpeggiator'
 uid: b58c0686-0a29-5940-950b-f772798706ca

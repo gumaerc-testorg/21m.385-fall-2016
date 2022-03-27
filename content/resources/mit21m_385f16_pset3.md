@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: acac8168-cb32-96cc-171e-8d980224fe9e
 resourcetype: Document
 title: 'Assignment 3: Graphics'
 uid: 0450e60a-1cc8-1f46-f6b7-674533e57eea

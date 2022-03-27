@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: acac8168-cb32-96cc-171e-8d980224fe9e
 resourcetype: Other
 title: Project Template
 uid: 0939cf58-883c-a2f7-9254-7060706623da

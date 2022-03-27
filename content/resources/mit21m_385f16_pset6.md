@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: acac8168-cb32-96cc-171e-8d980224fe9e
 resourcetype: Document
 title: 'Assignment 6: Fantasia'
 uid: 74b0642f-9d00-6dc6-601f-c12b69b0d3fa

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: acac8168-cb32-96cc-171e-8d980224fe9e
 resourcetype: Document
 title: 'Assignment 7: Guitar Hero'
 uid: ad8c2217-8b0c-4d54-ee46-bfcd85d98fb1
