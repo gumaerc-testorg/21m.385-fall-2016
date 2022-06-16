@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-385-interactive-music-systems-fall-2016/c25b644bfd389df2acdcf4461efca269_MIT21M_385F16_project-template.pdf
+file: /courses/21m-385-interactive-music-systems-fall-2016/c25b644bfd389df2acdcf4461efca269_MIT21M_385F16_project-template.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

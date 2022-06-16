@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005/)_, _[6.01 Introduction to EECS](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)_ (or python proficiency), or permission from the instructor. _[6.005 Software Construction](/courses/6-005-software-construction-spring-2016/)_ is recommended.
+_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005)_, _[6.01 Introduction to EECS](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)_ (or python proficiency), or permission from the instructor. _[6.005 Software Construction](/courses/6-005-software-construction-spring-2016)_ is recommended.
 
 Course Description
 ------------------
@@ -62,7 +63,7 @@ This class has a final project lasting the final 5 weeks of the semester. Final 
 Software / Hardware
 -------------------
 
-Class assignments and final projects will be constructed using the python framework [_Kivy_](http://kivy.org). You will also need a few freely available software packages. See [the Tools section]({{< baseurl >}}/pages/tools) for the software requirements.
+Class assignments and final projects will be constructed using the python framework [_Kivy_](http://kivy.org). You will also need a few freely available software packages. See {{% resource_link 05eaccc2-57be-3899-31db-fc4e04e23b67 "the Tools section" %}} for the software requirements.
 
 For some assignments, we will use special hardware input devices (like the Microsoft Kinect sensor). All hardware required for assignments will be made available to residential students as a loan. Hardware for final projects can be borrowed or purchased by students, depending on the nature of the project and the desired hardware.
 
