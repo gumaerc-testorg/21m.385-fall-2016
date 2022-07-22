@@ -5,6 +5,7 @@ file: /courses/21m-385-interactive-music-systems-fall-2016/6c4fa3abe73fef0267d6f
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

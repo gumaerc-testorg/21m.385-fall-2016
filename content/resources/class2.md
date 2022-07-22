@@ -5,6 +5,7 @@ file: /courses/21m-385-interactive-music-systems-fall-2016/984356912dbe81a9d2441
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Files
 parent_type: CourseSection

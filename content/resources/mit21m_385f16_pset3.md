@@ -5,6 +5,7 @@ file: /courses/21m-385-interactive-music-systems-fall-2016/0450e60a1cc81f46f6b76
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
