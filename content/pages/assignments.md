@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: acac8168-cb32-96cc-171e-8d980224fe9e
 ---
@@ -28,13 +32,13 @@ Duration: 5 min + Q&A
 {{< anchor "psets" >}}{{< /anchor >}}Problem Sets
 -------------------------------------------------
 
-*   [Assignment 1: Sine Synthesis (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset1)
-*   [Assignment 2: Wave Files (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset2)
-*   [Assignment 3: Graphics (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset3)
-*   [Assignment 4: Arpeggiator (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset4)
-*   [Assignment 5: Magic Harp (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset5)
-*   [Assignment 6: Fantasia (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset6)
-*   [Assignment 7: Guitar Hero (PDF)]({{< baseurl >}}/resources/mit21m_385f16_pset7)
+*   {{% resource_link ba835660-dbdd-7af5-5abf-1dcbfb9656ad "Assignment 1: Sine Synthesis (PDF)" %}}
+*   {{% resource_link 672144fc-a1c2-d74b-86d7-fc356382bb67 "Assignment 2: Wave Files (PDF)" %}}
+*   {{% resource_link 0450e60a-1cc8-1f46-f6b7-674533e57eea "Assignment 3: Graphics (PDF)" %}}
+*   {{% resource_link b58c0686-0a29-5940-950b-f772798706ca "Assignment 4: Arpeggiator (PDF)" %}}
+*   {{% resource_link 215c820a-fa61-82b0-8b79-2b069b1b1d2e "Assignment 5: Magic Harp (PDF)" %}}
+*   {{% resource_link 74b0642f-9d00-6dc6-601f-c12b69b0d3fa "Assignment 6: Fantasia (PDF)" %}}
+*   {{% resource_link ad8c2217-8b0c-4d54-ee46-bfcd85d98fb1 "Assignment 7: Guitar Hero (PDF)" %}}
 
 {{< anchor "projects" >}}{{< /anchor >}}Final Projects
 ------------------------------------------------------
@@ -90,7 +94,7 @@ As you work with another student, you will bounce ideas off each other, help eac
 
 Each team is required to submit a written project proposal (see Project Proposal Template) and also present their proposal in class.
 
-Project Proposal Template [(DOC)]({{< baseurl >}}/resources/mit21m_385f16_project-template) [(PDF)]({{< baseurl >}}/resources/mit21m_385f16_project-template-1)
+Project Proposal Template {{% resource_link 0939cf58-883c-a2f7-9254-7060706623da "(DOC)" %}} {{% resource_link c25b644b-fd38-9df2-acdc-f4461efca269 "(PDF)" %}}
 
 ### Schedule and Deliverables
 

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes the software requirements and instructions for
+  the applications used in the course.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 05eaccc2-57be-3899-31db-fc4e04e23b67
 ---
@@ -9,7 +14,7 @@ Overview
 
 21M.385 uses Kivy - an application / graphics framework for Python. We also use a few other packages: numpy, pyAudio (which uses PortAudio), FluidSynth, and rtmidi.
 
-*   Installation files for Mac and Win: [Installation files (ZIP - 5.8MB)]({{< baseurl >}}/resources/install) (this ZIP file contains 11 .py files, 1 .sh file, 2 .sf2 files, 7 .dll files, 4 .pyd files, 1 .so file, 2 .dylib files, and 2 .whl files)
+*   Installation files for Mac and Win: {{% resource_link 6c4fa3ab-e73f-ef02-67d6-fc8fd51acf81 "Installation files (ZIP - 5.8MB)" %}} (this ZIP file contains 11 .py files, 1 .sh file, 2 .sf2 files, 7 .dll files, 4 .pyd files, 1 .so file, 2 .dylib files, and 2 .whl files)
 *   LEAP Motion files: [download directly from the LEAP site](https://developer.leapmotion.com/sdk/v2)
 
 Follow the steps below to install everything you need for Mac or Windows.

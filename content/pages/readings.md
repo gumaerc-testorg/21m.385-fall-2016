@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 082fbf7f-c5cb-f029-99e3-94c036c7d520
 ---
@@ -40,7 +44,7 @@ Wang, Ge. [Principles of Visual Design for Computer Music](http://quod.lib.umich
 Kinect
 {{< tdclose >}}
 {{< tdopen >}}
-MacCormick, John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[How Does the Kinect Work? (PDF 2.3MB)](https://users.dickinson.edu/~jmac/selected-talks/kinect.pdf)
+MacCormick, John. [How Does the Kinect Work? (PDF 2.3MB)](https://users.dickinson.edu/~jmac/selected-talks/kinect.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
