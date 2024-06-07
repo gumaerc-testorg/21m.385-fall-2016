@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-385-interactive-music-systems-fall-2016/74b0642f9d006dc6601fc12b69b0d3fa_MIT21M_385F16_pset6.pdf
+file_size: 214767
 file_type: application/pdf
 learning_resource_types:
 - Assignments

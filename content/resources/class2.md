@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-385-interactive-music-systems-fall-2016/984356912dbe81a9d244182c157ea005_class2.zip
+file_size: 7314
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
