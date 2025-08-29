@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-385-interactive-music-systems-fall-2016/0939cf58883ca2f792547060706623da_MIT21M_385F16_project-template.docx
+file: /ol-ocw-studio-app/courses/21m-385-interactive-music-systems-fall-2016/0939cf58883ca2f792547060706623da_MIT21M_385F16_project-template.docx
 file_size: 115276
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types:
