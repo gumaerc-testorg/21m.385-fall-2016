@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-385-interactive-music-systems-fall-2016/0450e60a1cc81f46f6b7674533e57eea_MIT21M_385F16_pset3.pdf
+file: /ol-ocw-studio-app/courses/21m-385-interactive-music-systems-fall-2016/0450e60a1cc81f46f6b7674533e57eea_MIT21M_385F16_pset3.pdf
 file_size: 170196
 file_type: application/pdf
 learning_resource_types:

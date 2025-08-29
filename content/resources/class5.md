@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-385-interactive-music-systems-fall-2016/177b96ef320df7c2c28c10c95732fda0_class5.zip
+file: /ol-ocw-studio-app/courses/21m-385-interactive-music-systems-fall-2016/177b96ef320df7c2c28c10c95732fda0_class5.zip
 file_size: 6831
 file_type: application/zip
 learning_resource_types:
