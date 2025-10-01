@@ -26,7 +26,7 @@ READINGS
 Sound Synthesis
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/musimathics-volume-2) Loy, Gareth. _Musimathics Vol. II._ MIT Press, 2011. ISBN: 978-0262516563. Sections 9.1 - 9.3, pp. 363-384.
+{{% resource_link "e533b82d-cca5-4b5a-8159-7df4392fc434" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Loy, Gareth. _Musimathics Vol. II._ MIT Press, 2011. ISBN: 978-0262516563. Sections 9.1 - 9.3, pp. 363-384.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +35,7 @@ Sound Synthesis
 Visual Design
 {{< tdclose >}}
 {{< tdopen >}}
-Wang, Ge. [Principles of Visual Design for Computer Music](http://quod.lib.umich.edu/i/icmc/bbp2372.2014.060/1). Proceedings of the International Computer Music Conference, Athens, 2014.
+Wang, Ge. {{% resource_link "5909cb27-23fd-46d3-8d5a-4d4dc25f77dc" "Principles of Visual Design for Computer Music" %}}. Proceedings of the International Computer Music Conference, Athens, 2014.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +44,7 @@ Wang, Ge. [Principles of Visual Design for Computer Music](http://quod.lib.umich
 Kinect
 {{< tdclose >}}
 {{< tdopen >}}
-MacCormick, John. [How Does the Kinect Work? (PDF 2.3MB)](https://users.dickinson.edu/~jmac/selected-talks/kinect.pdf)
+MacCormick, John. {{% resource_link "832549d6-c040-4654-b819-bb5a07c3d964" "How Does the Kinect Work? (PDF 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

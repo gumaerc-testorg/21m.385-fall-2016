@@ -63,7 +63,7 @@ This class has a final project lasting the final 5 weeks of the semester. Final 
 Software / Hardware
 -------------------
 
-Class assignments and final projects will be constructed using the python framework [_Kivy_](http://kivy.org). You will also need a few freely available software packages. See {{% resource_link 05eaccc2-57be-3899-31db-fc4e04e23b67 "the Tools section" %}} for the software requirements.
+Class assignments and final projects will be constructed using the python framework {{% resource_link "c41e25eb-2b54-40fc-92cf-ad13483b95ff" "_Kivy_" %}}. You will also need a few freely available software packages. See {{% resource_link 05eaccc2-57be-3899-31db-fc4e04e23b67 "the Tools section" %}} for the software requirements.
 
 For some assignments, we will use special hardware input devices (like the Microsoft Kinect sensor). All hardware required for assignments will be made available to residential students as a loan. Hardware for final projects can be borrowed or purchased by students, depending on the nature of the project and the desired hardware.
 
@@ -125,7 +125,7 @@ There is no final exam.
 Academic Integrity and Collaboration
 ------------------------------------
 
-Read [MIT’s Academic Integrity Policy](http://integrity.mit.edu). It applies here. In particular, we will be coding for this class, so read [the coding section](http://integrity.mit.edu/handbook/writing-code).
+Read {{% resource_link "df3480d9-0921-4af1-9880-1f3ab972115b" "MIT’s Academic Integrity Policy" %}}. It applies here. In particular, we will be coding for this class, so read {{% resource_link "60e6851c-a881-4162-a6fa-269bb22a1e30" "the coding section" %}}.
 
 If working as a team, each team member should contribute an equal share of the work for the assignment. Every collaborative assignment submission must include a paragraph describing the nature of the collaboration – who did what, and how the collaboration worked.
 
