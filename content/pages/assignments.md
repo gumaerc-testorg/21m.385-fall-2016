@@ -103,14 +103,14 @@ You are required to demonstrate weekly progress on your final project. Progress 
 Student Examples: Final Project Presentations
 ---------------------------------------------
 
-Video presentations by MIT students in the class have been archived on [the Music Technology at MIT website](https://musictech.mit.edu/).
+Video presentations by MIT students in the class have been archived on {{% resource_link "a61fd91a-c76c-4412-9d98-cd5097bd2aa1" "the Music Technology at MIT website" %}}.
 
 Browse the final project demo videos by type:
 
-*   [Games](https://musictech.mit.edu/imsprj/game)
-*   [Alternate Controller / Input Devices](https://musictech.mit.edu/imsprj/controllers)
-*   [Virtual Reality](https://musictech.mit.edu/imsprj/vr)
-*   [Vocal Input](https://musictech.mit.edu/imsprj/vocal)
-*   [Music Creation](https://musictech.mit.edu/imsprj/creation)
-*   [Music Exploration](https://musictech.mit.edu/imsprj/exploration)
-*   [Music Education](https://musictech.mit.edu/imsprj/educational)
+*   {{% resource_link "c64a940c-9d31-4f8d-97b6-17cf25805ed4" "Games" %}}
+*   {{% resource_link "e8c64ead-137f-4679-b260-6cb595943122" "Alternate Controller / Input Devices" %}}
+*   {{% resource_link "b42499ab-b6ba-4f11-b94d-048a111467d8" "Virtual Reality" %}}
+*   {{% resource_link "e73f431b-1bc3-4ec8-a406-e9ff5d6f838d" "Vocal Input" %}}
+*   {{% resource_link "ec0be4a4-92bd-4252-bff6-547bacd69dd0" "Music Creation" %}}
+*   {{% resource_link "bea17ab1-25fa-49c7-9285-2ad7314e895a" "Music Exploration" %}}
+*   {{% resource_link "f30269dd-8afa-48d0-ba53-762cf5e00188" "Music Education" %}}

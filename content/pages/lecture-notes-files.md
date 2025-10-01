@@ -10,7 +10,7 @@ uid: 66ec87df-2a76-358e-2dff-09c2e2b52361
 
 The table below containes the lecture notes and code files for the first half of the course, including files needed for lab sessions and homework assignments. The second half of the course is spent on the team projects.
 
-The Common and Data files listed under Week 1 are needed each week. For some assignments, you will also need to have the [Leap Motion SDK files](https://web.archive.org/web/20191231035059/https://developer.leapmotion.com/setup/desktop).
+The Common and Data files listed under Week 1 are needed each week. For some assignments, you will also need to have the {{% resource_link "a44aebb6-6d30-4c1d-a37d-21d329ef9401" "Leap Motion SDK files" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -44,7 +44,7 @@ Code Files
 
 [Data files (ZIP - 132MB)](/ans7870/21m/21m.385/f16/MIT21M_385F16_data.zip) (contains 1 .sf2 file and 1 .png file)
 
-[Leap Motion SDK files](https://developer.leapmotion.com/sdk/v2) (must be downloaded directly)
+{{% resource_link "389b7e80-4b15-4d38-9800-71e2233985b9" "Leap Motion SDK files" %}} (must be downloaded directly)
 
 
 {{< tdclose >}}
